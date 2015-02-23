@@ -13,6 +13,7 @@
 		CB7573C91A96585E00EC6E47 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB7573C81A96585E00EC6E47 /* Images.xcassets */; };
 		CB7573CC1A96585E00EC6E47 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CB7573CA1A96585E00EC6E47 /* LaunchScreen.xib */; };
 		CB7573D81A96585E00EC6E47 /* Background_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7573D71A96585E00EC6E47 /* Background_AppTests.swift */; };
+		CB7573E21A97973900EC6E47 /* Curtain.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CB7573E11A97973900EC6E47 /* Curtain.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		CB7573D11A96585E00EC6E47 /* Background AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Background AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB7573D61A96585E00EC6E47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB7573D71A96585E00EC6E47 /* Background_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Background_AppTests.swift; sourceTree = "<group>"; };
+		CB7573E11A97973900EC6E47 /* Curtain.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Curtain.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		CB7573BF1A96585E00EC6E47 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CB7573E11A97973900EC6E47 /* Curtain.PNG */,
 				CB7573C01A96585E00EC6E47 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB7573E21A97973900EC6E47 /* Curtain.PNG in Resources */,
 				CB7573C71A96585E00EC6E47 /* Main.storyboard in Resources */,
 				CB7573CC1A96585E00EC6E47 /* LaunchScreen.xib in Resources */,
 				CB7573C91A96585E00EC6E47 /* Images.xcassets in Resources */,
